@@ -1,0 +1,112 @@
+[
+  {
+    "title": "The Thirsty Crow",
+    "content": "Once upon a time, on a hot summer day, a thirsty crow flew across the fields searching for water. For a long time, he could not find any. He felt weak and almost lost hope. Suddenly, he saw a pot below a tree. There was a little water in it, but the crow could not reach it. He dropped pebbles one by one until the water rose up. He drank it happily.\n\nMoral: Where there is a will, there is a way.",
+    "puzzles": [
+      { "question": "What was the crow searching for?", "answer": "water" },
+      { "question": "Where did the crow find the pot?", "answer": "under a tree" },
+      { "question": "What did the crow drop into the pot?", "answer": "pebbles" },
+      { "question": "What season was it?", "answer": "summer" },
+      { "question": "What is the moral of the story?", "answer": "where there is a will there is a way" }
+    ]
+  },
+  {
+    "title": "The Honest Woodcutter",
+    "content": "Once there lived a poor woodcutter who earned his living by cutting wood. One day his axe fell into the river. A fairy appeared and offered him a golden axe, a silver axe, and his old one. The woodcutter chose only his old axe. The fairy rewarded his honesty by giving him all three axes.\n\nMoral: Honesty is the best policy.",
+    "puzzles": [
+      { "question": "What fell into the river?", "answer": "axe" },
+      { "question": "Who helped the woodcutter?", "answer": "fairy" },
+      { "question": "What did the fairy offer first?", "answer": "golden axe" },
+      { "question": "What quality did the woodcutter show?", "answer": "honesty" },
+      { "question": "What is the moral of the story?", "answer": "honesty is the best policy" }
+    ]
+  },
+  {
+    "title": "The Lion and the Mouse",
+    "content": "A lion once caught a mouse but decided to let it go. Later, the lion was caught in a hunter’s net. The same mouse came and gnawed the net to free him. The lion thanked the mouse for saving his life.\n\nMoral: Kindness is never wasted.",
+    "puzzles": [
+      { "question": "Who caught the mouse?", "answer": "lion" },
+      { "question": "What did the lion do after catching the mouse?", "answer": "let it go" },
+      { "question": "Who saved the lion later?", "answer": "mouse" },
+      { "question": "What was the lion trapped in?", "answer": "net" },
+      { "question": "What is the moral of the story?", "answer": "kindness is never wasted" }
+    ]
+  },
+  {
+    "title": "The Fox and the Grapes",
+    "content": "A hungry fox saw grapes hanging high. He jumped many times but couldn’t reach them. Finally, he gave up and said, 'Those grapes are sour anyway.'\n\nMoral: It’s easy to hate what you can’t have.",
+    "puzzles": [
+      { "question": "Who saw the grapes?", "answer": "fox" },
+      { "question": "What was the fox trying to eat?", "answer": "grapes" },
+      { "question": "Could the fox reach the grapes?", "answer": "no" },
+      { "question": "What did the fox say at the end?", "answer": "grapes are sour" },
+      { "question": "What is the moral of the story?", "answer": "its easy to hate what you cant have" }
+    ]
+  },
+  {
+    "title": "The Wise Farmer and His Sons",
+    "content": "An old farmer had four sons who always fought. To teach them unity, he tied sticks together in a bundle and asked them to break it. None could break the bundle, but each could break a single stick. They learned that unity gives strength.\n\nMoral: Unity is strength.",
+    "puzzles": [
+      { "question": "How many sons did the farmer have?", "answer": "four" },
+      { "question": "What did the farmer tie together?", "answer": "sticks" },
+      { "question": "Could they break the bundle of sticks?", "answer": "no" },
+      { "question": "What could they break easily?", "answer": "single stick" },
+      { "question": "What is the moral of the story?", "answer": "unity is strength" }
+    ]
+  },
+  {
+    "title": "The Ant and the Grasshopper",
+    "content": "The grasshopper spent the summer singing happily while the ant worked hard collecting food for winter. When winter arrived, the grasshopper had no food and felt hungry. He went to the ant for help. The ant shared a small amount but reminded him how important it is to prepare for the future. The grasshopper regretted wasting his time and promised to work harder next year.\n\nMoral: Hard work pays off.",
+    "puzzles": [
+      { "question": "Who worked hard in summer?", "answer": "ant" },
+      { "question": "Who wasted time singing?", "answer": "grasshopper" },
+      { "question": "What season came later?", "answer": "winter" },
+      { "question": "Who asked for help?", "answer": "grasshopper" },
+      { "question": "What is the moral of the story?", "answer": "hard work pays off" }
+    ]
+  },
+  {
+    "title": "The Hare and the Tortoise",
+    "content": "A hare always made fun of the tortoise for walking slowly. One day the tortoise challenged him to a race. The hare ran fast and felt confident, so he took a nap midway. Meanwhile the tortoise kept moving slowly but steadily and reached the finish line first. The hare woke up shocked to see the tortoise win.\n\nMoral: Slow and steady wins the race.",
+    "puzzles": [
+      { "question": "Who walked slowly?", "answer": "tortoise" },
+      { "question": "Who ran fast?", "answer": "hare" },
+      { "question": "What did the hare do during the race?", "answer": "took a nap" },
+      { "question": "Who won the race?", "answer": "tortoise" },
+      { "question": "What is the moral of the story?", "answer": "slow and steady wins the race" }
+    ]
+  },
+  {
+    "title": "The Boy Who Cried Wolf",
+    "content": "A shepherd boy got bored while watching sheep. To have fun he shouted 'Wolf! Wolf!' and villagers ran to help him. But there was no wolf. He did this trick again. Later a real wolf came, and the boy cried for help seriously, but no one came. The wolf attacked the sheep and the boy learned never to lie.\n\nMoral: Liars are not believed even when they speak the truth.",
+    "puzzles": [
+      { "question": "Who looked after the sheep?", "answer": "shepherd boy" },
+      { "question": "What did the boy shout?", "answer": "wolf" },
+      { "question": "Did villagers come to help first time?", "answer": "yes" },
+      { "question": "Who came finally?", "answer": "wolf" },
+      { "question": "What is the moral of the story?", "answer": "liars are not believed" }
+    ]
+  },
+  {
+    "title": "The Golden Egg",
+    "content": "A poor farmer had a hen that laid a golden egg every morning. The farmer sold each egg and became richer day by day. But he grew greedy and thought that inside the hen there must be many more gold at once. He killed the hen to get all the gold at once, but found nothing. He lost his hen and future golden eggs because of greed.\n\nMoral: Greed leads to loss.",
+    "puzzles": [
+      { "question": "What did the hen lay?", "answer": "golden egg" },
+      { "question": "Who owned the hen?", "answer": "farmer" },
+      { "question": "What did the farmer become day by day?", "answer": "richer" },
+      { "question": "What caused the loss?", "answer": "greed" },
+      { "question": "What is the moral of the story?", "answer": "greed leads to loss" }
+    ]
+  },
+  {
+    "title": "The Bundle of Sticks",
+    "content": "A father worried because his sons always fought with each other. He gave each son one stick to break, and they broke it easily. Then he tied many sticks into a bundle and asked them to break them together. No one could break the bundle. They understood that when they stay united no one can defeat them easily.\n\nMoral: Unity gives strength.",
+    "puzzles": [
+      { "question": "What did the sons always do?", "answer": "fought" },
+      { "question": "What could they break first?", "answer": "one stick" },
+      { "question": "Could they break the bundle?", "answer": "no" },
+      { "question": "Who taught them the lesson?", "answer": "father" },
+      { "question": "What is the moral of the story?", "answer": "unity gives strength" }
+    ]
+  }
+]
